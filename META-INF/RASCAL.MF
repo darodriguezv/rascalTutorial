@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Project-Name: rascaldsl
+Source: src/main/rascal
+Main-Module: Plugin
+Require-Libraries: |lib://rascal|,|lib://dsl-project|
